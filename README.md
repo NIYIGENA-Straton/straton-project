@@ -1,0 +1,2 @@
+# straton-project
+python project
